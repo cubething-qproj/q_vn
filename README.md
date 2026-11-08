@@ -1,6 +1,6 @@
 # q_vn
 
-TODO: Coverage badge, brief description.
+q_vn is a visual novel engine for bevy.
 
 ## License
 

@@ -8,6 +8,7 @@ repository = "https://github.com/cubething-qproj/q_vn"
 [dependencies]
 bevy = "0.20"
 tiny_bail = "0.7"
+yarnspinner_rust = { git = "https://github.com/cubething-qproj/yarnspinner-rust.git" }
 
 [lints]
 clippy.too_many_arguments = "allow"
